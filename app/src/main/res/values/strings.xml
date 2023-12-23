@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Image Gallery</string>
+    <string name="navigation_drawer_open">Open Nevigation Drawer</string>
+    <string name="navigation_drawer_close">Close Nevigation Drawer</string>
+</resources>
